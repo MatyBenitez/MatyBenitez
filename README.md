@@ -20,5 +20,5 @@ No escribo código solo para que funcione; construyo infraestructura para elimin
 
 ### 🌐 Conectemos
 - **Website:** [growinglabsai.com](https://www.growinglabsai.com/)
-- **LinkedIn:** [Matías Benitez](#) *(insertá tu link acá)*
+- **LinkedIn:** [Matías Benitez](https://www.linkedin.com/in/matias-benitez-a463a022b/)
 - **Instagram:** [@mati.growing](https://www.instagram.com/mati.growing)
